@@ -1,2 +1,8 @@
-# adversarial-robustness-ai
-Deep Learning Robustness and Adversarial Attack Analysis using PyTorch
+# Adversarial Robustness AI
+
+## Features
+- FGSM attack
+- Robustness evaluation
+
+## Run
+python src/attack.py
